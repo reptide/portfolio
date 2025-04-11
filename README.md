@@ -1,4 +1,4 @@
-# Euisun Choi Portfolio
+# Portfolio
 
 # Education
 
