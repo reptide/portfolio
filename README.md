@@ -17,7 +17,7 @@
 - Delivered a Hold-Down-and-Release-Mechanism (HDRM) for CubeSats and small space missions
 - Reduced system costs by 90% (approximately $10,000 > $1,000) while maintaining NASA Flight Requirements
 
-![HDRM_Rendering](/assests/img/HDRM_Rendering.png)
+![HDRM_Rendering](/assests/HDRM_Rendering.png)
 
 ### HaloShip (Spaceport America Cup 2023) (_Sep 2022 - June 2023_)
 **CAD, Stress Simulations, Aero Simulations, PCB Design/Fabrication, Embedded Systems Design**
@@ -28,8 +28,9 @@
 - Developed custom avionics including a Flight Computer and High-Speed Data Acquisition payload
 - Performed comprehensive simulations (Stress and Aerodynamic) to optimize and simulate rocket performance parameters
 
-![HDRM_1](/assets/img/HDRM_1.jpg)
-![RoCat](/assets/img/RoCat.jpg)
+![Haloship_Poster](/assets/Haloship_Poster.png)
+![HDRM_1](/assets/HDRM_1.jpg)
+![RoCat](/assets/RoCat.jpg)
 
 # Technical Skills
 ### Software: 
