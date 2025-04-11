@@ -28,8 +28,8 @@
 - Developed custom avionics including a Flight Computer and High-Speed Data Acquisition payload
 - Performed comprehensive simulations (Stress and Aerodynamic) to optimize and simulate rocket performance parameters
 
-![Haloship_Poster](/assets/Haloship_Poster.png)
-![HDRM_1](/assets/HDRM_1.jpg)
+![Haloship_Poster](/assests/Haloship_Poster.png)
+![HDRM_Rendering](/assests/HDRM_Rendering.png)
 ![RoCat](/assets/RoCat.jpg)
 
 # Technical Skills
