@@ -31,7 +31,7 @@
 - Performed comprehensive simulations (Stress and Aerodynamic) to optimize and simulate rocket performance parameters
 
 ![Haloship_Poster](/assets/Haloship_Poster.png)
-![HDRM_1](/assets/HDRM_1.jpg)
+![HDRM_1](/assets/HDRM_1.JPG)
 ![RoCat](/assets/RoCat.jpg)
 
 # Technical Skills
