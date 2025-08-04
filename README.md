@@ -3,7 +3,7 @@
 # Education
 
 ### New York University Abu Dhabi
-- B.S., Computer Engineering & Applied Mathematics (_May 2028_)
+- B.S. Computer Engineering & Applied Mathematics (_May 2028_)
 
 
 # Work Experience
@@ -31,7 +31,6 @@
 - Performed comprehensive simulations (Stress and Aerodynamic) to optimize and simulate rocket performance parameters
 
 ![Haloship_Poster](/assets/Haloship_Poster.png)
-![HDRM_1](/assets/HDRM_1.jpg)
 ![RoCat](/assets/RoCat.jpg)
 
 # Technical Skills
