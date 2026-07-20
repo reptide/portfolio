@@ -26,7 +26,7 @@
 
 ### Optical Ground Station (OGS) Live Link Budget Simulator (*2026*)
 
-**FSO Channel Modeling, Pointing-Jitter Statistics, MATLAB GUI** — [Repository](https://github.com/reptide/ogs-linkbudget-live)
+**FSO Channel Modeling, Pointing-Jitter Statistics, MATLAB GUI** — [Repository📡](https://github.com/reptide/ogs-linkbudget-live)
 
 - Built an interactive MATLAB simulator evaluating link margin and tracking reliability of satellite-ground laser links
 - Integrated a live weather API to scale atmospheric attenuation from real-time humidity, cloud cover, and precipitation
@@ -41,11 +41,11 @@
 - Independently designed a real-time wireless sensing device for bowed string instruments: dual-piezo analog front-end (op-amp buffering, anti-alias filtering), multi-channel ADC acquisition on an nRF52840, and BLE streaming to a phone
 - Owned the full sensing chain — sampling and anti-aliasing strategy, low-power wake logic via on-chip analog comparator (LPCOMP), KiCad PCB layout carried through fabrication, and enclosure CAD
 
-![StringSense_PCB](https://reptide.github.io/portfolio/assets/StringSense_PCB.png)
+![StringSense_PCB](assets/StringSense_PCB.png)
 
 ### HaloShip (Spaceport America Cup 2023) (*Sep 2022 - June 2023*)
 
-**Embedded Flight Control, Sensor Fusion, Avionics, CAD, Stress/Aero Simulations** [Flight](https://www.youtube.com/live/LpET1HB0Kto?si=ydTEDwBJHsaJpAHa&t=9399)
+**Embedded Flight Control, Sensor Fusion, Avionics, CAD, Stress/Aero Simulations** [Flight🚀](https://www.youtube.com/live/LpET1HB0Kto?si=ydTEDwBJHsaJpAHa&t=9399)
 
 - Led design of a reusable experimental sounding rocket with modular subassemblies for complete assembly/disassembly
 - Implemented a dual-redundant, non-pyrotechnic parachute deployment system with multi-sensor-fusion triggering logic for fail-safe recovery event timing
