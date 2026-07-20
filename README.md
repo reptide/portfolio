@@ -1,6 +1,6 @@
 # Portfolio
 
-# Education
+# 🎓 Education
 
 ### New York University Abu Dhabi
 
@@ -8,15 +8,17 @@
 
 # Work Experience
 
-### Undergraduate Researcher @ Spacecraft Prototyping Laboratory (SPL), KAIST (*June 2026 - August 2026*)
+### 🛰️ Undergraduate Researcher @ Spacecraft Prototyping Laboratory (SPL), KAIST (*June 2026 - August 2026*)
 
 **Free-Space Optical Communication, Closed-Loop Pointing Control, Link Characterization**
 
 - Tested closed-loop control of a fast steering mirror (FSM) for fine beam pointing on the lab's free-space optical (FSO) communication testbed
-- Characterized FSO link quality through bench-top SNR measurements on lab hardware and BER performance analysis
+- Characterized FSO link quality through bench-top SNR measurements on lab hardware and BER performance analysis — see [`fso-baseline-snr`](https://github.com/reptide/fso-baseline-snr)
 - Building attitude-determination foundations — quaternion kinematics and multi-sensor attitude estimation — toward the lab's star tracker and satellite GNC research
 
-### Summer Research Assistant @ Engineering Design Studio (*May 2023 - July 2023*)
+![SPL_FSO_Bench](https://reptide.github.io/portfolio/assets/SPL_FSO_Bench.jpg)
+
+### 🧑‍🎓 Summer Research Assistant @ Engineering Design Studio (*May 2023 - July 2023*)
 
 - Collaborated with NASA-JPL engineers from Group 355A (Architecture and Formulation Group) to design and deliver a flight-ready Hold-Down-and-Release Mechanism (HDRM)
 - Developed embedded flight-control firmware for staged event triggering and actuator command sequencing on an experimental sounding rocket, flight-tested at Spaceport America Cup 2023
@@ -24,9 +26,9 @@
 
 # Projects
 
-### Optical Ground Station (OGS) Live Link Budget Simulator (*2026*)
+### 📡 [Optical Ground Station (OGS) Live Link Budget Simulator](https://github.com/reptide/ogs-linkbudget-live) (*2026*)
 
-**FSO Channel Modeling, Pointing-Jitter Statistics, MATLAB GUI** — [Repository📡](https://github.com/reptide/ogs-linkbudget-live)
+**FSO Channel Modeling, Pointing-Jitter Statistics, MATLAB GUI**
 
 - Built an interactive MATLAB simulator evaluating link margin and tracking reliability of satellite-ground laser links
 - Integrated a live weather API to scale atmospheric attenuation from real-time humidity, cloud cover, and precipitation
@@ -34,8 +36,7 @@
 
 ![OGS_Simulation_Result](https://raw.githubusercontent.com/reptide/ogs-linkbudget-live/main/images/simulation_result.png)
 
-### StringSense — AI Practice-Coaching Pickup (*June 2026 - Present*)
-[stringsense.kr🎻](https://stringsense.kr/)
+### 🎻 StringSense — AI Practice-Coaching Pickup (*June 2026 - Present*)
 
 **Analog Front-End Design, Embedded Firmware, PCB Design/Fabrication, Mechanical CAD** — Solo Founder @ KAIST OVERGE Program
 
@@ -44,9 +45,9 @@
 
 ![StringSense_PCB](assets/StringSense_PCB.png)
 
-### HaloShip (Spaceport America Cup 2023) (*Sep 2022 - June 2023*)
+### 🚀 [HaloShip (Spaceport America Cup 2023)](https://www.youtube.com/live/LpET1HB0Kto?si=ydTEDwBJHsaJpAHa&t=9399) (*Sep 2022 - June 2023*)
 
-**Embedded Flight Control, Sensor Fusion, Avionics, CAD, Stress/Aero Simulations** [Flight🚀](https://www.youtube.com/live/LpET1HB0Kto?si=ydTEDwBJHsaJpAHa&t=9399)
+**Embedded Flight Control, Sensor Fusion, Avionics, CAD, Stress/Aero Simulations** — title links to launch footage 🎥
 
 - Led design of a reusable experimental sounding rocket with modular subassemblies for complete assembly/disassembly
 - Implemented a dual-redundant, non-pyrotechnic parachute deployment system with multi-sensor-fusion triggering logic for fail-safe recovery event timing
@@ -54,7 +55,7 @@
 
 ![Haloship_Poster](https://reptide.github.io/portfolio/assets/Haloship_Poster.png)![RoCat](https://reptide.github.io/portfolio/assets/RoCat.jpg)
 
-### NASA-JPL University Crowdsourcing Initiative (JUCI) (*Sep 2022 - June 2023*)
+### ⚙️ NASA-JPL University Crowdsourcing Initiative (JUCI) (*Sep 2022 - June 2023*)
 
 **Actuation Mechanism Design, CAD, Stress Simulations**
 
