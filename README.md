@@ -35,6 +35,7 @@
 ![OGS_Simulation_Result](https://raw.githubusercontent.com/reptide/ogs-linkbudget-live/main/images/simulation_result.png)
 
 ### StringSense — AI Practice-Coaching Pickup (*June 2026 - Present*)
+[stringsense.kr🎻](https://stringsense.kr/)
 
 **Analog Front-End Design, Embedded Firmware, PCB Design/Fabrication, Mechanical CAD** — Solo Founder @ KAIST OVERGE Program
 
