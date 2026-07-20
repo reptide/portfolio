@@ -16,7 +16,7 @@
 - Characterized FSO link quality through bench-top SNR measurements on lab hardware and BER performance analysis — see [`fso-baseline-snr`](https://github.com/reptide/fso-baseline-snr)
 - Building attitude-determination foundations — quaternion kinematics and multi-sensor attitude estimation — toward the lab's star tracker and satellite GNC research
 
-![SPL_FSO_Bench](https://reptide.github.io/portfolio/assets/SPL_FSO_Bench.jpg)
+![SPL_FSO_Bench](assets/SPL_FSO_Bench.jpg)
 
 ### 🧑‍🎓 Summer Research Assistant @ Engineering Design Studio (*May 2023 - July 2023*)
 
@@ -36,7 +36,7 @@
 
 ![OGS_Simulation_Result](https://raw.githubusercontent.com/reptide/ogs-linkbudget-live/main/images/simulation_result.png)
 
-### 🎻 StringSense — AI Practice-Coaching Pickup (*June 2026 - Present*)
+### 🎻 [StringSense — AI Practice-Coaching Pickup](https://stringsense.kr/) (*June 2026 - Present*)
 
 **Analog Front-End Design, Embedded Firmware, PCB Design/Fabrication, Mechanical CAD** — Solo Founder @ KAIST OVERGE Program
 
