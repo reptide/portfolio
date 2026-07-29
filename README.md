@@ -32,7 +32,7 @@
 
 - Built an interactive MATLAB simulator evaluating link margin and tracking reliability of satellite-ground laser links
 - Integrated a live weather API to scale atmospheric attenuation from real-time humidity, cloud cover, and precipitation
-- Modeled fine-pointing error as Rayleigh/Rician-distributed jitter to compute time-series link margin, margin probability density, and link outage rate; validated against a SaTReC (KAIST) ground-station scenario
+- Modeled fine-pointing error as Rayleigh/Rician-distributed jitter to compute time-series link margin, margin probability density, and link outage rate; Configured to SPL's optical ground station at KAIST.
 
 ![OGS_Simulation_Result](https://raw.githubusercontent.com/reptide/ogs-linkbudget-live/main/images/simulation_result.png)
 
